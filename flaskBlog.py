@@ -8,9 +8,7 @@ def home():
     return "<h1>Home page!</h1>"
 
 
-@app.route('/about')
-def about():
-    return "<h1>About Page</h1>"
+
 
 
 
